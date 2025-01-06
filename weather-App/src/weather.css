@@ -1,0 +1,16 @@
+
+.search{
+    text-align: center;
+}
+.weather{
+    text-align: center;
+}
+
+.red{
+    
+    text-align: center;
+}
+.info{
+    display: flex;
+    justify-content: center;
+}
